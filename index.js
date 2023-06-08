@@ -80,7 +80,7 @@ const greet2 = person.sayHello;
 greet(); // Output: Hello, John!
 
 //////////////////////////////  QUESTION FOUR  ////////////////////////////
-const numbers = [48, 20, 18, 7, 12, 9, 8, 10, 12, 96, 3, 36, 51]; // Here we are making a array of numbers
+const numbers = [20, 48, 18, 7, 12, 3, 4, 10, 12, 69, 3, 36, 51]; // Here we are making a array of numbers
 
 function filterNumbers(arr) {
   // Here we are making a function that will filter our numbers
